@@ -19,4 +19,19 @@
     display: flex;
     width: 1000px;
     height: 100px;
+    margin-bottom: 50px;
+    font-family: inherit;
+}
+
+.clack {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(22, 18, 236);
+    color: greenyellow;
+    width: 200px;
+    height: 50px;
+    text-transform: uppercase;
+    margin-top: 50px;
+    font-family: inherit;
 }
