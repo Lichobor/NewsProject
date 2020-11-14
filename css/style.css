@@ -13,3 +13,10 @@
     text-transform: uppercase;
     margin-top: 50px;
 }
+
+.footer {
+    margin-top: 100px;
+    display: flex;
+    width: 1000px;
+    height: 100px;
+}
