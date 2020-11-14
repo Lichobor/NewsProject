@@ -1,3 +1,16 @@
 .page {
+    display: block;
+    margin: 0 auto;
+    width: 1000px;
+    height: 100%;
+    justify-content: center;
     background-color: hotpink;
+    font-family: Oswald, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18;
+    line-height: normal;
+    outline: 2px solid black;
+    padding: 0 300px;
+    box-sizing: border-box;
+
 }
